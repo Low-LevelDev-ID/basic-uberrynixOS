@@ -52,7 +52,3 @@ This is a **foundation project** — meant for:
 This project is released under the **[ABRL - Archana Berry Research License](https://github.com/archanaberry/Lisensi)**,
 a soft copyleft model encouraging reuse, modification, and contribution
 — all while keeping the berry spirit alive.
-
----
-
-Feel free to let me know kalau kamu ingin versi markdown lengkap, termasuk badge atau tambahan seperti banner ASCII/emoji.
